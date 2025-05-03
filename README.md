@@ -95,6 +95,3 @@ We tested multiple algorithms against our baseline:
 - Implement multi-fold cross-validation for more robust hyperparameter tuning
 - Create interactive visualizations for results interpretation
 - Extend the approach to other health indicators and regions
-
-
-This project is licensed under the MIT License - see the LICENSE file for details.
